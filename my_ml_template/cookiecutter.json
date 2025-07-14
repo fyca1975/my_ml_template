@@ -1,0 +1,6 @@
+{
+    "project_name": "My project",
+    "author_name": "Fredy Yecid Castro",
+    "python_version": "3.8",
+    "license": ["MIT", "GPL", "APACHE"]
+}
